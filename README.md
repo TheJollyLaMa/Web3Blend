@@ -23,4 +23,4 @@ Web3 Blender Panel from Jolly's continuing Blender Bender
 
 
 
-<div align="center"><img height="200px" width="375px" src="./0.png"></div>
+<div align="center"><img height="200px" width="375px" src="./Screenshot 2022-12-27 at 4.22.42 PM.png"></div>
