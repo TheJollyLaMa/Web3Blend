@@ -1,9 +1,6 @@
 # Web3Blend
 Web3 Blender Panel from Jolly's continuing Blender Bender
 
-	<div align="center"><img height="200px" width="375px" src="./0.png"></div>
-
-
 # Features
 
 ## send creative session to:
@@ -23,3 +20,7 @@ Web3 Blender Panel from Jolly's continuing Blender Bender
         
 ## - send in email
         - send rendered files and/or blend file to email address
+
+
+
+<div align="center"><img height="200px" width="375px" src="./0.png"></div>
